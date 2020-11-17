@@ -26,3 +26,8 @@ fields:
   label: type
   default: post
   description: 'type: post or featured'
+- name: slug
+  type: text
+  config:
+    required: false
+  label: Slug
