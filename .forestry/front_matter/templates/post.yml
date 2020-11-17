@@ -30,4 +30,4 @@ fields:
   type: text
   config:
     required: false
-  label: Slug
+  label: slug
