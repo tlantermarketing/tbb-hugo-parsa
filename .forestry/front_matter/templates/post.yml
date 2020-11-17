@@ -31,3 +31,5 @@ fields:
   config:
     required: false
   label: slug
+pages:
+- content/aeropress.md
