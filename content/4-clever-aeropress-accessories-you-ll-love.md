@@ -6,7 +6,7 @@ image = "/images/aeropress-coffee-brewing-1.jpg"
 slug = "best-aeropress-accessories"
 tags = []
 title = "4 Clever AeroPress Accessories You’ll Love"
-type = "post"
+type = "featured"
 
 +++
 The AeroPress is an easy way to make great coffee anywhere. There are also a million different ways to use it.
