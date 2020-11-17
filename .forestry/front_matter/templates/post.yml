@@ -31,3 +31,5 @@ fields:
   config:
     required: false
   label: slug
+pages:
+- content/4-clever-aeropress-accessories-you-ll-love.md
